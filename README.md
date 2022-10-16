@@ -24,6 +24,7 @@ Hi, I'm a Graphical designer and a Developer 🚀 from India. I'm a currently pa
 ### :fire: My Stats :
 
 https://github-readme-streak-stats.herokuapp.com/?user=ux-thehari-plr
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ux-thehari-plr&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ### :hammer_and_wrench: Languages and Tools :
 
