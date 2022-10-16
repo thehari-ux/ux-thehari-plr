@@ -21,6 +21,10 @@ Hi, I'm a Graphical designer and a Developer 🚀 from India. I'm a currently pa
 | <a href="https://github.com/ux-the-hari/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ux-thehari-plr&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Harikrishnan's github stats" /></a> 
 
 
+### :fire: My Stats :
+
+https://github-readme-streak-stats.herokuapp.com/?user=ux-thehari-plr
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
