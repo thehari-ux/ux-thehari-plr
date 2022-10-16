@@ -1,18 +1,15 @@
-
 <p align="center"> 
   Visitor count<br>
   <br>
   <img src="https://profile-counter.glitch.me/ux-thehari-plr/count.svg" />
 </p>
 
-### Hey there, I am Harikrishnan B <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-
 <img width="1500" alt="ux-thehari-plr welcome banner" src="https://user-images.githubusercontent.com/72938167/196025441-68ee8554-c266-4d2a-8f93-e350d6b77b7b.png">
+
+### Hey there, I am Harikrishnan B <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
 Hi, I'm a Graphical designer and a Developer 🚀 from India. I'm a currently passionate in UI UX designing and is exploring its principles & methodology inorder to create interactive design. Beside's designing, I also enjoy learning web and app development.
 
-
-  
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on communities;
