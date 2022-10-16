@@ -15,16 +15,4 @@ Hi, I'm a Graphical designer and a Developer 🚀 from India. I'm a currently pa
 
 
 | <a href="https://github.com/ux-the-hari/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ux-thehari-plr&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Harikrishnan's github stats" /></a> | <a href="https://github.com/ux-thehari-plr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ux-thehari-plr&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-#### Top Repositories
-
-
-<a href="https://github.com/ux-thehari-plr/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/ux-thehari-plr/ux-thehari-plr.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ux-thehari-plr&repo=ux-thehari-plr.github.io&theme=buefy" />
-</a>
-
 
