@@ -4,7 +4,7 @@
   <img src="https://profile-counter.glitch.me/ux-thehari-plr/count.svg" />
 </p>
 
-<img width="1500" alt="ux-thehari-plr welcome banner" src="https://user-images.githubusercontent.com/72938167/196025441-68ee8554-c266-4d2a-8f93-e350d6b77b7b.png">
+<img width="1500" alt="ux-thehari-plr welcome banner" src="https://user-images.githubusercontent.com/72938167/196027573-582784e8-5a98-475c-8e9c-18c909c46f91.png">
 
 ### Hey there, I am Harikrishnan B <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
